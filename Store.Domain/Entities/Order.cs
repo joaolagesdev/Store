@@ -36,6 +36,7 @@ namespace Store.Domain.Entities
         {
             var item = new OrderItem(product, quantity);
             
+            // AddNotifications(item.Notifications); Outra abordagem, evita a validação pelo if abaixo
             if(item.Valid)
                 Items.Add(item);
         }
