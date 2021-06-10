@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lunBZR5Mv19uK/v1N8aP32b/o/vQEJ7xuiZaLDskQhvsZzs1df0sDhllmZi6CUeVpBTU2YAIRvVbgE/yYjm8VA==",
+  "dgSpecHash": "Rp+pj9zbZLMn59SaUN7rru2s3akA7ArmyRZMrh5xo5jOt0Ead3ykATvritEEMV+Bm6sFcatbuPXeZ1JvYX+CSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Documents\\Projetos\\Store\\Store.Domain\\Store.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
