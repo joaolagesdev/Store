@@ -17,3 +17,5 @@ namespace Store.Domain.Queries
         }
     }
 }
+
+// Queries strings: não podem ser testadas, mas não significa que são ruins.
